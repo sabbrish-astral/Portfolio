@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"s",
+				"unset"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"outline",
+				"outline-color"
+			],
+			[
+				"pin",
+				"lightpink"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"width",
+				"border-width"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"red",
+				"palevioletred"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text-deco",
+				"text-decoration-line"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"boder-le",
+				"border-left-color"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"bodd",
+				"border-bottom-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"borer",
+				"border-right"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/css/my_blog(copycat).css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/my_blog(copycat).html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/navigation bar (Hamburger).html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/css/my-blog2.css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/css/my-blog.css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/my-blog.html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/index.html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/css/style.css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/rough.html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/code/roughstyle.css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/images/style.css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/images/stylesheets.css",
+		"/C/Users/SUCCESS/OneDrive/Desktop/images/style",
+		"/E/project/index1.html",
+		"/E/project/index.html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/images/index.html",
+		"/C/Users/SUCCESS/OneDrive/Desktop/images/in",
+		"/C/Users/SUCCESS/OneDrive/Desktop/images/i"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.html",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
