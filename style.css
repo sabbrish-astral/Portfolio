@@ -212,7 +212,7 @@ background: linear-gradient(to right, #F7086C 0%, #35c9fc 100%);
     animation-delay: .8s;
     position: relative;
 }
-.images::before {
+/*.images::before {
     content: "";
     position: absolute;
     width: 27vw;
@@ -220,7 +220,7 @@ background: linear-gradient(to right, #F7086C 0%, #35c9fc 100%);
     background: linear-gradient(to right, #F7086C 0%, #35c9fc 100%);
     border-radius: 200px;
     top: 22%;
-}
+}*/
 .images img {
     position: relative;
 }
